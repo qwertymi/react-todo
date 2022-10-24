@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qwertymi/react-todo/static/css/main.0a1f80f2.css",
+    "main.js": "/qwertymi/react-todo/static/js/main.524a711e.js",
+    "static/js/787.63e47474.chunk.js": "/qwertymi/react-todo/static/js/787.63e47474.chunk.js",
+    "index.html": "/qwertymi/react-todo/index.html",
+    "main.0a1f80f2.css.map": "/qwertymi/react-todo/static/css/main.0a1f80f2.css.map",
+    "main.524a711e.js.map": "/qwertymi/react-todo/static/js/main.524a711e.js.map",
+    "787.63e47474.chunk.js.map": "/qwertymi/react-todo/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a1f80f2.css",
+    "static/js/main.524a711e.js"
+  ]
+}
